@@ -1,11 +1,10 @@
 #Flutter Nedir?
-```
+
 Google tarafından 2017 yılında piyasaya sürülmüş açık kaynak kodlu bir araçtır.
 
 Android ve İOS gibi platformlar için mobil uygulama geliştirmenizi sağlayan bir SDK (software development kit) olarak tanımlanabilir.
 
 Framework, Widget ve farklı araçları barındıran, sadece kod tabanı kullanarak yerel bir uygulama geliştirmenizi sağlayan bir sistemdir.
-```
 
 
 #Neden Flutter ?
