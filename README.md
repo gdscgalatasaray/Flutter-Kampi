@@ -1,1 +1,1 @@
-
+Google Developer Students Club Galatasaray olarak hazırladığımız ücretsiz ve sertifikalı bir online eğitim kampı olan Flutter Kampı başlıyor. 13-19 Aralık tarihleri arasında gerçekleştirilecek olan kamp kapsamında mobil ve web teknolojisinin önemli bir dili olan Flutter, alanında uzman farklı eğitimciler tarafından ele alınacak.
