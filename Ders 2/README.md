@@ -1,1 +1,1 @@
-
+## Ders İçeriği : Widget'lar. MaterialApp-Scaffold Widget'ları. FloatingActionButton ve Material Design. Container Widget. Alignment Sınıfı ve Margin. Row ve Column Widget. MainAxis CrossAxis ve Expanded Widget.
