@@ -1,1 +1,1 @@
-## Ders İçeriği : Flutter nedir? Flutter'ın tarihçesi ve mimarisine giriş. Flutter'ın kullanım alanları. Widget'lara giriş. Flutter ile uygulama geliştiren firmalar. Widget'lar nerelerde kullanılır? Flutter paketleri. Flutter 2.8'e giriş.
+### Ders İçeriği : Flutter nedir? Flutter'ın tarihçesi ve mimarisine giriş. Flutter'ın kullanım alanları. Widget'lara giriş. Flutter ile uygulama geliştiren firmalar. Widget'lar nerelerde kullanılır? Flutter paketleri. Flutter 2.8'e giriş.
