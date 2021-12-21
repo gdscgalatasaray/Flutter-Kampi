@@ -9,11 +9,14 @@ Framework, Widget ve farklı araçları barındıran, sadece kod tabanı kullana
 
 # Neden Flutter ?
 
-```
 Öğrenmesi kolay olan ve pratik bir şekilde kullanılabilen bir sistemdir.
+
 Açık kaynak kodlu bir araçtır ve bu aracı tüm mobil tasarımcı ve geliştiriciler ücretsiz kullanabilirler.
+
 Estetik bir programlama dili olan Dart’ı kullanmaktadır. 
+
 Hem IOS hem de Android platformlarını hedefleyecek uygulamalara sahip olabilirsiniz. 
+
 Kodları hızlı bir şekilde değiştirebilir, sonuçlarını bir tıklamayla görebilirsiniz. 
+
 Sadece mobil uygulamalarda değil web ve masaüstü tarayıcılarda da yüksek performans alabilirsiniz.
-```
